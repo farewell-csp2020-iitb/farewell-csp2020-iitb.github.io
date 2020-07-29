@@ -228,7 +228,7 @@ body{
 }
 .event-wrapper{
 	display: grid;
-	grid-template-columns: 1fr;
+	grid-template-columns: 1fr 1fr;
 	align-content: center;
 	text-align: center;
 
@@ -241,7 +241,8 @@ body{
 .event-content h1{
 	
 	color:orange; 
-	text-decoration:underline; 
+	
+	font-style: oblique; 
 
 }
 .event-content h2{
@@ -330,3 +331,6 @@ body{
 				</div>
 			</div>
 			*/
+
+
+		
