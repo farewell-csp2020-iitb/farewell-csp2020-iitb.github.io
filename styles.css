@@ -100,7 +100,7 @@ body{
 	padding: 15px;
 	padding-right: 50px;
 	padding-left:50px;
-	padding-top: 30px;
+	padding-top: 0px;
 	padding-bottom: 100px;
 }
 .portfolio-item-wrapper{
@@ -285,13 +285,14 @@ body{
 }
 .invitation-heading h1{
 	
-	color:black; 
+	color:orange; 
 	font-style: oblique;
 	text-shadow: 1px 1px;
 }
 .invitation-heading h2{
 	
-	color:black; 
+	color:white; 
+	font-style: oblique;
 }
 .us{
 	display: grid;
@@ -318,4 +319,14 @@ body{
     padding-left: 3px;
     padding-right: 3px;
 }
+/*messages
+			<div class="messages-heading">
+				<h1>Glimpse from our Fresher's Party</h1>
 
+			</div>
+			<div class="us">
+				<div class="us1">
+					<div class="us2" style="background-image: url(memories/us.jpg);"></div>
+				</div>
+			</div>
+			*/
