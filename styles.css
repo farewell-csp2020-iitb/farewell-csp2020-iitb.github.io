@@ -100,8 +100,8 @@ body{
 	padding: 15px;
 	padding-right: 50px;
 	padding-left:50px;
-	padding-top: 330px;
-	padding-bottom: 200px;
+	padding-top: 30px;
+	padding-bottom: 100px;
 }
 .portfolio-item-wrapper{
 	position: relative;
@@ -276,5 +276,21 @@ body{
 	
 	color:yellow;  
 	font-style: oblique;
+}
+.invitation-heading{
+	padding: 30px;
+	align-content: center;
+	text-align: center;
+
+}
+.invitation-heading h1{
+	
+	color:black; 
+	font-style: oblique;
+	text-shadow: 1px 1px;
+}
+.invitation-heading h2{
+	
+	color:black; 
 }
 
