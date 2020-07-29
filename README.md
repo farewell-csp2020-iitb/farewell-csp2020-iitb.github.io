@@ -1,1 +1,1 @@
-# mohit-iitb.github.io
+# farewell-csp2020-iitb.github.io
